@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vigneshgautam
-- 👀 I’m interested in ai
-- 🌱 I’m currently learning openai
-- 💞️ I’m looking to collaborate on ai tools and products
+- 👀 I’m interested in ai, blockchain, web3.0
+- 🌱 I’m currently using openai and working on Google Maps Platform.
+- 💞️ I’m looking to collaborate on Google Maps Platform.
 - 📫 How to reach me linkedin https://www.linkedin.com/in/vigneshgautam/
 
 <!---
